@@ -8,4 +8,4 @@ Repositório criado para o Desafio de Projeto
 
 [Curso de JavaScript DIO](https://digitalinnovation.one/cursos/javascript)
 
-[Curso de Node.js] (https://web.dio.me/course/instalando-e-configurando-seu-ambiente-nodejs/learning/3fc68d94-bbc7-4714-ab6f-1e0ac214bc43/?back=/browse)
+[Curso de Node.js](https://web.dio.me/course/instalando-e-configurando-seu-ambiente-nodejs/learning/3fc68d94-bbc7-4714-ab6f-1e0ac214bc43/?back=/browse)
